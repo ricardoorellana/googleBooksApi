@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">googleBookApi</string>
+    <string name="search">Search book</string>
+</resources>
